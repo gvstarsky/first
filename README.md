@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# starsky
-=======
 ### 初次运行 Git 前的配置
 
 #### 设置用户名和邮箱
@@ -228,5 +225,3 @@ git checkout -b <branch> <remote>/<branch>
 ```
 git push origin --delete <远程分支名>
 ```
-
->>>>>>> a5709f7a93c7ef8410b53dc8c8b5945ab0a4378a
